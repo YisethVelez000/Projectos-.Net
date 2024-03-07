@@ -1,0 +1,28 @@
+﻿@if (Model.Proyectos is not null)
+{
+    <div class="text-center" style="padding-top : 6rem;">
+       <h1>Proyectos desarrollados</h1>
+       <p> En este espacio puedes consultar mis proyectos mas relevantes</p>
+    </div>
+
+    <div class="container">
+        <div class="row row-cols-1 row-cols-md-3 g-4">
+            <!--Recorrremos cada proyecto en el controlador-->
+            @foreach (var proyecto in Model.Proyectos)
+            {
+              <div class="col"> 
+                <div class="card h-100">
+                    <img src="@proyecto.ImagenUrl"  class="card-img-top"alt="Alternate Text" />
+                    <div class="card-body">
+                        <h5 class="card-title">@proyecto.Titulo</h5>
+                        <p class="card-text">@proyecto.Descripcion</p>
+                    </div>
+                    <div class="card-footer"> 
+                        <a href="@proyecto.Link" class="btn btn-outline-primary" target="_blank" rel="noopener noreferrer">Visitar</a>
+                    </div>
+                </div>
+              </div>
+            }
+        </div>
+    </div>
+}

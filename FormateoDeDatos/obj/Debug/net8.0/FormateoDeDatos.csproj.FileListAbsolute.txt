@@ -1,0 +1,14 @@
+C:\FormateoDeDatos\obj\Debug\net8.0\FormateoDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\FormateoDeDatos\obj\Debug\net8.0\FormateoDeDatos.AssemblyInfoInputs.cache
+C:\FormateoDeDatos\obj\Debug\net8.0\FormateoDeDatos.AssemblyInfo.cs
+C:\FormateoDeDatos\obj\Debug\net8.0\FormateoDeDatos.csproj.CoreCompileInputs.cache
+C:\FormateoDeDatos\bin\Debug\net8.0\FormateoDeDatos.exe
+C:\FormateoDeDatos\bin\Debug\net8.0\FormateoDeDatos.deps.json
+C:\FormateoDeDatos\bin\Debug\net8.0\FormateoDeDatos.runtimeconfig.json
+C:\FormateoDeDatos\bin\Debug\net8.0\FormateoDeDatos.dll
+C:\FormateoDeDatos\bin\Debug\net8.0\FormateoDeDatos.pdb
+C:\FormateoDeDatos\obj\Debug\net8.0\FormateoDeDatos.dll
+C:\FormateoDeDatos\obj\Debug\net8.0\refint\FormateoDeDatos.dll
+C:\FormateoDeDatos\obj\Debug\net8.0\FormateoDeDatos.pdb
+C:\FormateoDeDatos\obj\Debug\net8.0\FormateoDeDatos.genruntimeconfig.cache
+C:\FormateoDeDatos\obj\Debug\net8.0\ref\FormateoDeDatos.dll

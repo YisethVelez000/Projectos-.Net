@@ -1,0 +1,14 @@
+C:\primerAppConsola\bin\Release\net8.0\primerAppConsola.exe
+C:\primerAppConsola\bin\Release\net8.0\primerAppConsola.deps.json
+C:\primerAppConsola\bin\Release\net8.0\primerAppConsola.runtimeconfig.json
+C:\primerAppConsola\bin\Release\net8.0\primerAppConsola.dll
+C:\primerAppConsola\bin\Release\net8.0\primerAppConsola.pdb
+C:\primerAppConsola\obj\Release\net8.0\primerAppConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\primerAppConsola\obj\Release\net8.0\primerAppConsola.AssemblyInfoInputs.cache
+C:\primerAppConsola\obj\Release\net8.0\primerAppConsola.AssemblyInfo.cs
+C:\primerAppConsola\obj\Release\net8.0\primerAppConsola.csproj.CoreCompileInputs.cache
+C:\primerAppConsola\obj\Release\net8.0\primerAppConsola.dll
+C:\primerAppConsola\obj\Release\net8.0\refint\primerAppConsola.dll
+C:\primerAppConsola\obj\Release\net8.0\primerAppConsola.pdb
+C:\primerAppConsola\obj\Release\net8.0\primerAppConsola.genruntimeconfig.cache
+C:\primerAppConsola\obj\Release\net8.0\ref\primerAppConsola.dll

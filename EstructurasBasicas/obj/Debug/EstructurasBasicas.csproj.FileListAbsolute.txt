@@ -1,0 +1,7 @@
+C:\Users\yiset\source\repos\EstructurasBasicas\bin\Debug\EstructurasBasicas.exe.config
+C:\Users\yiset\source\repos\EstructurasBasicas\bin\Debug\EstructurasBasicas.exe
+C:\Users\yiset\source\repos\EstructurasBasicas\bin\Debug\EstructurasBasicas.pdb
+C:\Users\yiset\source\repos\EstructurasBasicas\obj\Debug\EstructurasBasicas.csproj.AssemblyReference.cache
+C:\Users\yiset\source\repos\EstructurasBasicas\obj\Debug\EstructurasBasicas.csproj.CoreCompileInputs.cache
+C:\Users\yiset\source\repos\EstructurasBasicas\obj\Debug\EstructurasBasicas.exe
+C:\Users\yiset\source\repos\EstructurasBasicas\obj\Debug\EstructurasBasicas.pdb

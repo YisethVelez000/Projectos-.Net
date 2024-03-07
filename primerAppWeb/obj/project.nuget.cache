@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "dMPf1cSDUXfEYIYPQlKpJwHgKTC7pD9xFFRSdxbBeXbJCfvH6sAv8oq5wdWawFpm/TgUVunrtvFEf8+0ZqrHdg==",
+  "success": false,
+  "projectFilePath": "C:\\primerAppWeb\\primerAppWeb.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.AspNetCore.OpenApi\" del origen remoto \"https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.openapi/index.json\".",
+      "libraryId": "Microsoft.AspNetCore.OpenApi"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Swashbuckle.AspNetCore\" del origen remoto \"https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/index.json\".",
+      "libraryId": "Swashbuckle.AspNetCore"
+    }
+  ]
+}

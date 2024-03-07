@@ -1,0 +1,7 @@
+C:\Users\yiset\source\repos\CRUD\bin\Debug\CRUD.exe.config
+C:\Users\yiset\source\repos\CRUD\bin\Debug\CRUD.exe
+C:\Users\yiset\source\repos\CRUD\bin\Debug\CRUD.pdb
+C:\Users\yiset\source\repos\CRUD\obj\Debug\CRUD.csproj.AssemblyReference.cache
+C:\Users\yiset\source\repos\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\yiset\source\repos\CRUD\obj\Debug\CRUD.exe
+C:\Users\yiset\source\repos\CRUD\obj\Debug\CRUD.pdb

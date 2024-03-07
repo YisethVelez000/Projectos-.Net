@@ -1,0 +1,7 @@
+C:\Users\yiset\source\repos\metodosYSobrecarga\obj\Debug\metodosYSobrecarga.csproj.AssemblyReference.cache
+C:\Users\yiset\source\repos\metodosYSobrecarga\obj\Debug\metodosYSobrecarga.csproj.CoreCompileInputs.cache
+C:\Users\yiset\source\repos\metodosYSobrecarga\bin\Debug\metodosYSobrecarga.exe.config
+C:\Users\yiset\source\repos\metodosYSobrecarga\bin\Debug\metodosYSobrecarga.exe
+C:\Users\yiset\source\repos\metodosYSobrecarga\bin\Debug\metodosYSobrecarga.pdb
+C:\Users\yiset\source\repos\metodosYSobrecarga\obj\Debug\metodosYSobrecarga.exe
+C:\Users\yiset\source\repos\metodosYSobrecarga\obj\Debug\metodosYSobrecarga.pdb

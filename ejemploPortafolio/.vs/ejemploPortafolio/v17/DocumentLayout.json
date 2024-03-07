@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yiset\\source\\repos\\ejemploPortafolio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92AC0FA8-3BCC-443E-9430-D0D6E4745742}|ejemploPortafolio.csproj|c:\\users\\yiset\\source\\repos\\ejemploportafolio\\views\\home\\_proyectos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92AC0FA8-3BCC-443E-9430-D0D6E4745742}|ejemploPortafolio.csproj|solutionrelative:views\\home\\_proyectos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92AC0FA8-3BCC-443E-9430-D0D6E4745742}|ejemploPortafolio.csproj|c:\\users\\yiset\\source\\repos\\ejemploportafolio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92AC0FA8-3BCC-443E-9430-D0D6E4745742}|ejemploPortafolio.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92AC0FA8-3BCC-443E-9430-D0D6E4745742}|ejemploPortafolio.csproj|c:\\users\\yiset\\source\\repos\\ejemploportafolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92AC0FA8-3BCC-443E-9430-D0D6E4745742}|ejemploPortafolio.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92AC0FA8-3BCC-443E-9430-D0D6E4745742}|ejemploPortafolio.csproj|c:\\users\\yiset\\source\\repos\\ejemploportafolio\\models\\homeindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92AC0FA8-3BCC-443E-9430-D0D6E4745742}|ejemploPortafolio.csproj|solutionrelative:models\\homeindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92AC0FA8-3BCC-443E-9430-D0D6E4745742}|ejemploPortafolio.csproj|c:\\users\\yiset\\source\\repos\\ejemploportafolio\\models\\proyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92AC0FA8-3BCC-443E-9430-D0D6E4745742}|ejemploPortafolio.csproj|solutionrelative:models\\proyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92AC0FA8-3BCC-443E-9430-D0D6E4745742}|ejemploPortafolio.csproj|c:\\users\\yiset\\source\\repos\\ejemploportafolio\\views\\home\\_presentacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92AC0FA8-3BCC-443E-9430-D0D6E4745742}|ejemploPortafolio.csproj|solutionrelative:views\\home\\_presentacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92AC0FA8-3BCC-443E-9430-D0D6E4745742}|ejemploPortafolio.csproj|c:\\users\\yiset\\source\\repos\\ejemploportafolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92AC0FA8-3BCC-443E-9430-D0D6E4745742}|ejemploPortafolio.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92AC0FA8-3BCC-443E-9430-D0D6E4745742}|ejemploPortafolio.csproj|c:\\users\\yiset\\source\\repos\\ejemploportafolio\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92AC0FA8-3BCC-443E-9430-D0D6E4745742}|ejemploPortafolio.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92AC0FA8-3BCC-443E-9430-D0D6E4745742}|ejemploPortafolio.csproj|c:\\users\\yiset\\source\\repos\\ejemploportafolio\\views\\home\\_habilidades.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92AC0FA8-3BCC-443E-9430-D0D6E4745742}|ejemploPortafolio.csproj|solutionrelative:views\\home\\_habilidades.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\yiset\\source\\repos\\ejemploPortafolio\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\yiset\\source\\repos\\ejemploPortafolio\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T18:55:05.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeIndexViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\yiset\\source\\repos\\ejemploPortafolio\\Models\\HomeIndexViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\HomeIndexViewModel.cs",
+              "ToolTip": "C:\\Users\\yiset\\source\\repos\\ejemploPortafolio\\Models\\HomeIndexViewModel.cs",
+              "RelativeToolTip": "Models\\HomeIndexViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T18:54:02.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_proyectos.cshtml",
+              "DocumentMoniker": "C:\\Users\\yiset\\source\\repos\\ejemploPortafolio\\Views\\Home\\_proyectos.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\_proyectos.cshtml",
+              "ToolTip": "C:\\Users\\yiset\\source\\repos\\ejemploPortafolio\\Views\\Home\\_proyectos.cshtml",
+              "RelativeToolTip": "Views\\Home\\_proyectos.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBQAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T15:18:30.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Proyecto.cs",
+              "DocumentMoniker": "C:\\Users\\yiset\\source\\repos\\ejemploPortafolio\\Models\\Proyecto.cs",
+              "RelativeDocumentMoniker": "Models\\Proyecto.cs",
+              "ToolTip": "C:\\Users\\yiset\\source\\repos\\ejemploPortafolio\\Models\\Proyecto.cs",
+              "RelativeToolTip": "Models\\Proyecto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T15:18:26.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_presentacion.cshtml",
+              "DocumentMoniker": "C:\\Users\\yiset\\source\\repos\\ejemploPortafolio\\Views\\Home\\_presentacion.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\_presentacion.cshtml",
+              "ToolTip": "C:\\Users\\yiset\\source\\repos\\ejemploPortafolio\\Views\\Home\\_presentacion.cshtml",
+              "RelativeToolTip": "Views\\Home\\_presentacion.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-29T23:08:40.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\yiset\\source\\repos\\ejemploPortafolio\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\yiset\\source\\repos\\ejemploPortafolio\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAkAAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-26T01:28:37.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\yiset\\source\\repos\\ejemploPortafolio\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\yiset\\source\\repos\\ejemploPortafolio\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-21T15:38:33.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\yiset\\source\\repos\\ejemploPortafolio\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\yiset\\source\\repos\\ejemploPortafolio\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T16:08:59.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_habilidades.cshtml",
+              "DocumentMoniker": "C:\\Users\\yiset\\source\\repos\\ejemploPortafolio\\Views\\Home\\_habilidades.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\_habilidades.cshtml",
+              "ToolTip": "C:\\Users\\yiset\\source\\repos\\ejemploPortafolio\\Views\\Home\\_habilidades.cshtml",
+              "RelativeToolTip": "Views\\Home\\_habilidades.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-29T23:11:14.263Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

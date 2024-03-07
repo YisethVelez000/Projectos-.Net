@@ -1,0 +1,4 @@
+C:\Lavadora\obj\Debug\net8.0\Lavadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lavadora\obj\Debug\net8.0\Lavadora.AssemblyInfoInputs.cache
+C:\Lavadora\obj\Debug\net8.0\Lavadora.AssemblyInfo.cs
+C:\Lavadora\obj\Debug\net8.0\Lavadora.csproj.CoreCompileInputs.cache

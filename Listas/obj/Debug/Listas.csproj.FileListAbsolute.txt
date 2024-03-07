@@ -1,0 +1,7 @@
+C:\Users\yiset\source\repos\Listas\bin\Debug\Listas.exe.config
+C:\Users\yiset\source\repos\Listas\bin\Debug\Listas.exe
+C:\Users\yiset\source\repos\Listas\bin\Debug\Listas.pdb
+C:\Users\yiset\source\repos\Listas\obj\Debug\Listas.csproj.AssemblyReference.cache
+C:\Users\yiset\source\repos\Listas\obj\Debug\Listas.csproj.CoreCompileInputs.cache
+C:\Users\yiset\source\repos\Listas\obj\Debug\Listas.exe
+C:\Users\yiset\source\repos\Listas\obj\Debug\Listas.pdb

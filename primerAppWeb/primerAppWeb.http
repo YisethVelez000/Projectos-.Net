@@ -1,0 +1,6 @@
+@primerAppWeb_HostAddress = http://localhost:5239
+
+GET {{primerAppWeb_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
