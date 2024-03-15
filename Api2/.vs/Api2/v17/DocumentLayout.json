@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yiset\\OneDrive\\Escritorio\\Proyectos-C#\\Projectos-.Net\\Api2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63104D54-7081-4C2A-AAAD-A2CBD029F908}|Api2.csproj|c:\\users\\yiset\\onedrive\\escritorio\\proyectos-c#\\projectos-.net\\api2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{63104D54-7081-4C2A-AAAD-A2CBD029F908}|Api2.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63104D54-7081-4C2A-AAAD-A2CBD029F908}|Api2.csproj|c:\\users\\yiset\\onedrive\\escritorio\\proyectos-c#\\projectos-.net\\api2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63104D54-7081-4C2A-AAAD-A2CBD029F908}|Api2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63104D54-7081-4C2A-AAAD-A2CBD029F908}|Api2.csproj|c:\\users\\yiset\\onedrive\\escritorio\\proyectos-c#\\projectos-.net\\api2\\api2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{63104D54-7081-4C2A-AAAD-A2CBD029F908}|Api2.csproj|solutionrelative:api2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63104D54-7081-4C2A-AAAD-A2CBD029F908}|Api2.csproj|c:\\users\\yiset\\onedrive\\escritorio\\proyectos-c#\\projectos-.net\\api2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63104D54-7081-4C2A-AAAD-A2CBD029F908}|Api2.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63104D54-7081-4C2A-AAAD-A2CBD029F908}|Api2.csproj|c:\\users\\yiset\\onedrive\\escritorio\\proyectos-c#\\projectos-.net\\api2\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63104D54-7081-4C2A-AAAD-A2CBD029F908}|Api2.csproj|solutionrelative:context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63104D54-7081-4C2A-AAAD-A2CBD029F908}|Api2.csproj|c:\\users\\yiset\\onedrive\\escritorio\\proyectos-c#\\projectos-.net\\api2\\migrations\\20240311111537_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63104D54-7081-4C2A-AAAD-A2CBD029F908}|Api2.csproj|solutionrelative:migrations\\20240311111537_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240311111537_initial.cs",
+              "DocumentMoniker": "C:\\Users\\yiset\\OneDrive\\Escritorio\\Proyectos-C#\\Projectos-.Net\\Api2\\Migrations\\20240311111537_initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240311111537_initial.cs",
+              "ToolTip": "C:\\Users\\yiset\\OneDrive\\Escritorio\\Proyectos-C#\\Projectos-.Net\\Api2\\Migrations\\20240311111537_initial.cs",
+              "RelativeToolTip": "Migrations\\20240311111537_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T11:15:39.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Api2.csproj",
+              "DocumentMoniker": "C:\\Users\\yiset\\OneDrive\\Escritorio\\Proyectos-C#\\Projectos-.Net\\Api2\\Api2.csproj",
+              "RelativeDocumentMoniker": "Api2.csproj",
+              "ToolTip": "C:\\Users\\yiset\\OneDrive\\Escritorio\\Proyectos-C#\\Projectos-.Net\\Api2\\Api2.csproj",
+              "RelativeToolTip": "Api2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-11T00:23:06.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\yiset\\OneDrive\\Escritorio\\Proyectos-C#\\Projectos-.Net\\Api2\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\yiset\\OneDrive\\Escritorio\\Proyectos-C#\\Projectos-.Net\\Api2\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-11T00:02:52.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yiset\\OneDrive\\Escritorio\\Proyectos-C#\\Projectos-.Net\\Api2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\yiset\\OneDrive\\Escritorio\\Proyectos-C#\\Projectos-.Net\\Api2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T00:02:18.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\yiset\\OneDrive\\Escritorio\\Proyectos-C#\\Projectos-.Net\\Api2\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\yiset\\OneDrive\\Escritorio\\Proyectos-C#\\Projectos-.Net\\Api2\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Context\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T23:58:04.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\yiset\\OneDrive\\Escritorio\\Proyectos-C#\\Projectos-.Net\\Api2\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\yiset\\OneDrive\\Escritorio\\Proyectos-C#\\Projectos-.Net\\Api2\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T23:54:57.401Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

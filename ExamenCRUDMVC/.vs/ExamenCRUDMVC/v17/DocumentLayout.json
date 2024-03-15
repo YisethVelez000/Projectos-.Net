@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yiset\\OneDrive\\Escritorio\\Proyectos-C#\\Projectos-.Net\\ExamenCRUDMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67FFA2E8-0D0A-4400-982C-047DF984FEB2}|ExamenCRUDMVC.csproj|c:\\users\\yiset\\onedrive\\escritorio\\proyectos-c#\\projectos-.net\\examencrudmvc\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67FFA2E8-0D0A-4400-982C-047DF984FEB2}|ExamenCRUDMVC.csproj|solutionrelative:controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67FFA2E8-0D0A-4400-982C-047DF984FEB2}|ExamenCRUDMVC.csproj|c:\\users\\yiset\\onedrive\\escritorio\\proyectos-c#\\projectos-.net\\examencrudmvc\\views\\categorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67FFA2E8-0D0A-4400-982C-047DF984FEB2}|ExamenCRUDMVC.csproj|solutionrelative:views\\categorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67FFA2E8-0D0A-4400-982C-047DF984FEB2}|ExamenCRUDMVC.csproj|c:\\users\\yiset\\onedrive\\escritorio\\proyectos-c#\\projectos-.net\\examencrudmvc\\controllers\\libroescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67FFA2E8-0D0A-4400-982C-047DF984FEB2}|ExamenCRUDMVC.csproj|solutionrelative:controllers\\libroescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67FFA2E8-0D0A-4400-982C-047DF984FEB2}|ExamenCRUDMVC.csproj|c:\\users\\yiset\\onedrive\\escritorio\\proyectos-c#\\projectos-.net\\examencrudmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67FFA2E8-0D0A-4400-982C-047DF984FEB2}|ExamenCRUDMVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67FFA2E8-0D0A-4400-982C-047DF984FEB2}|ExamenCRUDMVC.csproj|c:\\users\\yiset\\onedrive\\escritorio\\proyectos-c#\\projectos-.net\\examencrudmvc\\views\\libroes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67FFA2E8-0D0A-4400-982C-047DF984FEB2}|ExamenCRUDMVC.csproj|solutionrelative:views\\libroes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67FFA2E8-0D0A-4400-982C-047DF984FEB2}|ExamenCRUDMVC.csproj|c:\\users\\yiset\\onedrive\\escritorio\\proyectos-c#\\projectos-.net\\examencrudmvc\\views\\libroes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67FFA2E8-0D0A-4400-982C-047DF984FEB2}|ExamenCRUDMVC.csproj|solutionrelative:views\\libroes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67FFA2E8-0D0A-4400-982C-047DF984FEB2}|ExamenCRUDMVC.csproj|c:\\users\\yiset\\onedrive\\escritorio\\proyectos-c#\\projectos-.net\\examencrudmvc\\wwwroot\\js\\deletecodigo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{67FFA2E8-0D0A-4400-982C-047DF984FEB2}|ExamenCRUDMVC.csproj|solutionrelative:wwwroot\\js\\deletecodigo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67FFA2E8-0D0A-4400-982C-047DF984FEB2}|ExamenCRUDMVC.csproj|c:\\users\\yiset\\onedrive\\escritorio\\proyectos-c#\\projectos-.net\\examencrudmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67FFA2E8-0D0A-4400-982C-047DF984FEB2}|ExamenCRUDMVC.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67FFA2E8-0D0A-4400-982C-047DF984FEB2}|ExamenCRUDMVC.csproj|c:\\users\\yiset\\onedrive\\escritorio\\proyectos-c#\\projectos-.net\\examencrudmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{67FFA2E8-0D0A-4400-982C-047DF984FEB2}|ExamenCRUDMVC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yiset\\OneDrive\\Escritorio\\Proyectos-C#\\Projectos-.Net\\ExamenCRUDMVC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\yiset\\OneDrive\\Escritorio\\Proyectos-C#\\Projectos-.Net\\ExamenCRUDMVC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T15:35:54.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeleteCodigo.js",
+              "DocumentMoniker": "C:\\Users\\yiset\\OneDrive\\Escritorio\\Proyectos-C#\\Projectos-.Net\\ExamenCRUDMVC\\wwwroot\\js\\DeleteCodigo.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\DeleteCodigo.js",
+              "ToolTip": "C:\\Users\\yiset\\OneDrive\\Escritorio\\Proyectos-C#\\Projectos-.Net\\ExamenCRUDMVC\\wwwroot\\js\\DeleteCodigo.js",
+              "RelativeToolTip": "wwwroot\\js\\DeleteCodigo.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-12T21:29:22.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\yiset\\OneDrive\\Escritorio\\Proyectos-C#\\Projectos-.Net\\ExamenCRUDMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\yiset\\OneDrive\\Escritorio\\Proyectos-C#\\Projectos-.Net\\ExamenCRUDMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwDQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T16:16:28.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\yiset\\OneDrive\\Escritorio\\Proyectos-C#\\Projectos-.Net\\ExamenCRUDMVC\\Views\\Categorias\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categorias\\Index.cshtml",
+              "ToolTip": "C:\\Users\\yiset\\OneDrive\\Escritorio\\Proyectos-C#\\Projectos-.Net\\ExamenCRUDMVC\\Views\\Categorias\\Index.cshtml",
+              "RelativeToolTip": "Views\\Categorias\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACgAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T16:12:49.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriasController.cs",
+              "DocumentMoniker": "C:\\Users\\yiset\\OneDrive\\Escritorio\\Proyectos-C#\\Projectos-.Net\\ExamenCRUDMVC\\Controllers\\CategoriasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriasController.cs",
+              "ToolTip": "C:\\Users\\yiset\\OneDrive\\Escritorio\\Proyectos-C#\\Projectos-.Net\\ExamenCRUDMVC\\Controllers\\CategoriasController.cs",
+              "RelativeToolTip": "Controllers\\CategoriasController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAkwBsAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T16:12:24.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LibroesController.cs",
+              "DocumentMoniker": "C:\\Users\\yiset\\OneDrive\\Escritorio\\Proyectos-C#\\Projectos-.Net\\ExamenCRUDMVC\\Controllers\\LibroesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LibroesController.cs",
+              "ToolTip": "C:\\Users\\yiset\\OneDrive\\Escritorio\\Proyectos-C#\\Projectos-.Net\\ExamenCRUDMVC\\Controllers\\LibroesController.cs",
+              "RelativeToolTip": "Controllers\\LibroesController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T16:12:20.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\yiset\\OneDrive\\Escritorio\\Proyectos-C#\\Projectos-.Net\\ExamenCRUDMVC\\Views\\Libroes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Libroes\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\yiset\\OneDrive\\Escritorio\\Proyectos-C#\\Projectos-.Net\\ExamenCRUDMVC\\Views\\Libroes\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Libroes\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T16:07:22.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\yiset\\OneDrive\\Escritorio\\Proyectos-C#\\Projectos-.Net\\ExamenCRUDMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\yiset\\OneDrive\\Escritorio\\Proyectos-C#\\Projectos-.Net\\ExamenCRUDMVC\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-12T15:36:33.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\yiset\\OneDrive\\Escritorio\\Proyectos-C#\\Projectos-.Net\\ExamenCRUDMVC\\Views\\Libroes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Libroes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\yiset\\OneDrive\\Escritorio\\Proyectos-C#\\Projectos-.Net\\ExamenCRUDMVC\\Views\\Libroes\\Index.cshtml",
+              "RelativeToolTip": "Views\\Libroes\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T15:26:19.77Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

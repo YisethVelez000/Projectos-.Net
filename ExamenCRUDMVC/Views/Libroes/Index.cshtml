@@ -1,0 +1,86 @@
+﻿@model IEnumerable<ExamenCRUDMVC.Models.Libro>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<form method="get">
+    <p>
+        Buscar por:
+        <input type="text" name="searchString" value="@ViewData["CurrentFilter"]">
+        <input type="submit" value="Buscar">
+    </p>
+    <p>
+        Ordenar por:
+        <a href="@Url.Action("Index", "Libroes", new { sortOrder = "TituloAsc", searchString = ViewData["CurrentFilter"] })" class="btn btn-primary"><i class="fas fa-sort-up"></i> Titulo Ascendente</a> |
+        <a href="@Url.Action("Index", "Libroes", new { sortOrder = "TituloDesc", searchString = ViewData["CurrentFilter"] })" class="btn btn-primary"><i class="fas fa-sort-down"></i> Titulo Descendente</a> |
+        <a href="@Url.Action("Index", "Libroes", new { sortOrder = "NombreAutorAsc", searchString = ViewData["CurrentFilter"] })" class="btn btn-primary"><i class="fas fa-sort-up"></i> Nombre AutorAscendente</a> |
+        <a href="@Url.Action("Index", "Libroes", new { sortOrder = "NombreAutorDesc", searchString = ViewData["CurrentFilter"] })" class="btn btn-primary"><i class="fas fa-sort-down"></i>Nombre Autor Descendente</a>
+    </p>
+
+</form>
+<table class="table text-center">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Titulo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Descripcion)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NombreAutor)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Publicacion)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FechaRegistro)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CodigoCategoriaNavigation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NitEditorialNavigation)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Titulo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Descripcion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NombreAutor)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Publicacion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FechaRegistro)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CodigoCategoriaNavigation.CodigoCategoria)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NitEditorialNavigation.Nit)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Isbn" class="btn btn-warning">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Isbn"class="btn btn-info">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Isbn" class="btn btn-danger">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
