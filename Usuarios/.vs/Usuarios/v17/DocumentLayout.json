@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yiset\\Documents\\GitHub\\Projectos-.Net\\Usuarios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25507130-C683-499E-9BF3-3D5BFA076C56}|Usuarios.csproj|c:\\users\\yiset\\documents\\github\\projectos-.net\\usuarios\\models\\roleindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25507130-C683-499E-9BF3-3D5BFA076C56}|Usuarios.csproj|solutionrelative:models\\roleindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25507130-C683-499E-9BF3-3D5BFA076C56}|Usuarios.csproj|c:\\users\\yiset\\documents\\github\\projectos-.net\\usuarios\\views\\roles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25507130-C683-499E-9BF3-3D5BFA076C56}|Usuarios.csproj|solutionrelative:views\\roles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25507130-C683-499E-9BF3-3D5BFA076C56}|Usuarios.csproj|c:\\users\\yiset\\documents\\github\\projectos-.net\\usuarios\\usuarios.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{25507130-C683-499E-9BF3-3D5BFA076C56}|Usuarios.csproj|solutionrelative:usuarios.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25507130-C683-499E-9BF3-3D5BFA076C56}|Usuarios.csproj|c:\\users\\yiset\\documents\\github\\projectos-.net\\usuarios\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25507130-C683-499E-9BF3-3D5BFA076C56}|Usuarios.csproj|solutionrelative:controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25507130-C683-499E-9BF3-3D5BFA076C56}|Usuarios.csproj|c:\\users\\yiset\\documents\\github\\projectos-.net\\usuarios\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25507130-C683-499E-9BF3-3D5BFA076C56}|Usuarios.csproj|solutionrelative:models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25507130-C683-499E-9BF3-3D5BFA076C56}|Usuarios.csproj|c:\\users\\yiset\\documents\\github\\projectos-.net\\usuarios\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25507130-C683-499E-9BF3-3D5BFA076C56}|Usuarios.csproj|solutionrelative:controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25507130-C683-499E-9BF3-3D5BFA076C56}|Usuarios.csproj|c:\\users\\yiset\\documents\\github\\projectos-.net\\usuarios\\views\\roles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25507130-C683-499E-9BF3-3D5BFA076C56}|Usuarios.csproj|solutionrelative:views\\roles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25507130-C683-499E-9BF3-3D5BFA076C56}|Usuarios.csproj|c:\\users\\yiset\\documents\\github\\projectos-.net\\usuarios\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25507130-C683-499E-9BF3-3D5BFA076C56}|Usuarios.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25507130-C683-499E-9BF3-3D5BFA076C56}|Usuarios.csproj|c:\\users\\yiset\\documents\\github\\projectos-.net\\usuarios\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25507130-C683-499E-9BF3-3D5BFA076C56}|Usuarios.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25507130-C683-499E-9BF3-3D5BFA076C56}|Usuarios.csproj|c:\\users\\yiset\\documents\\github\\projectos-.net\\usuarios\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{25507130-C683-499E-9BF3-3D5BFA076C56}|Usuarios.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25507130-C683-499E-9BF3-3D5BFA076C56}|Usuarios.csproj|c:\\users\\yiset\\documents\\github\\projectos-.net\\usuarios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25507130-C683-499E-9BF3-3D5BFA076C56}|Usuarios.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25507130-C683-499E-9BF3-3D5BFA076C56}|Usuarios.csproj|c:\\users\\yiset\\documents\\github\\projectos-.net\\usuarios\\models\\developmentascontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25507130-C683-499E-9BF3-3D5BFA076C56}|Usuarios.csproj|solutionrelative:models\\developmentascontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RoleIndexViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\yiset\\Documents\\GitHub\\Projectos-.Net\\Usuarios\\Models\\RoleIndexViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\RoleIndexViewModel.cs",
+              "ToolTip": "C:\\Users\\yiset\\Documents\\GitHub\\Projectos-.Net\\Usuarios\\Models\\RoleIndexViewModel.cs",
+              "RelativeToolTip": "Models\\RoleIndexViewModel.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T00:06:49.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuarios",
+              "DocumentMoniker": "C:\\Users\\yiset\\Documents\\GitHub\\Projectos-.Net\\Usuarios\\Usuarios.csproj",
+              "RelativeDocumentMoniker": "Usuarios.csproj",
+              "ToolTip": "C:\\Users\\yiset\\Documents\\GitHub\\Projectos-.Net\\Usuarios\\Usuarios.csproj",
+              "RelativeToolTip": "Usuarios.csproj",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-03T22:48:58.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\yiset\\Documents\\GitHub\\Projectos-.Net\\Usuarios\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\yiset\\Documents\\GitHub\\Projectos-.Net\\Usuarios\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-03T22:10:23.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\yiset\\Documents\\GitHub\\Projectos-.Net\\Usuarios\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Models\\Role.cs",
+              "ToolTip": "C:\\Users\\yiset\\Documents\\GitHub\\Projectos-.Net\\Usuarios\\Models\\Role.cs",
+              "RelativeToolTip": "Models\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T22:08:58.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\yiset\\Documents\\GitHub\\Projectos-.Net\\Usuarios\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\yiset\\Documents\\GitHub\\Projectos-.Net\\Usuarios\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAIBJwBsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-03T22:04:54.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\yiset\\Documents\\GitHub\\Projectos-.Net\\Usuarios\\Views\\Roles\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Roles\\Create.cshtml",
+              "ToolTip": "C:\\Users\\yiset\\Documents\\GitHub\\Projectos-.Net\\Usuarios\\Views\\Roles\\Create.cshtml",
+              "RelativeToolTip": "Views\\Roles\\Create.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-03T21:54:25.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\yiset\\Documents\\GitHub\\Projectos-.Net\\Usuarios\\Views\\Roles\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Roles\\Index.cshtml",
+              "ToolTip": "C:\\Users\\yiset\\Documents\\GitHub\\Projectos-.Net\\Usuarios\\Views\\Roles\\Index.cshtml*",
+              "RelativeToolTip": "Views\\Roles\\Index.cshtml*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-03T21:48:50.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "C:\\Users\\yiset\\Documents\\GitHub\\Projectos-.Net\\Usuarios\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RolesController.cs",
+              "ToolTip": "C:\\Users\\yiset\\Documents\\GitHub\\Projectos-.Net\\Usuarios\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "Controllers\\RolesController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T21:48:39.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\yiset\\Documents\\GitHub\\Projectos-.Net\\Usuarios\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\yiset\\Documents\\GitHub\\Projectos-.Net\\Usuarios\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "Controllers\\UsuariosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T21:47:39.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yiset\\Documents\\GitHub\\Projectos-.Net\\Usuarios\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\yiset\\Documents\\GitHub\\Projectos-.Net\\Usuarios\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T21:45:14.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\yiset\\Documents\\GitHub\\Projectos-.Net\\Usuarios\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\yiset\\Documents\\GitHub\\Projectos-.Net\\Usuarios\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-03T21:44:26.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DevelopmentAsContext.cs",
+              "DocumentMoniker": "C:\\Users\\yiset\\Documents\\GitHub\\Projectos-.Net\\Usuarios\\Models\\DevelopmentAsContext.cs",
+              "RelativeDocumentMoniker": "Models\\DevelopmentAsContext.cs",
+              "ToolTip": "C:\\Users\\yiset\\Documents\\GitHub\\Projectos-.Net\\Usuarios\\Models\\DevelopmentAsContext.cs",
+              "RelativeToolTip": "Models\\DevelopmentAsContext.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAA3wDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T21:44:16.01Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

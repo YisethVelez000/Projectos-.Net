@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tzT0gJwyTUjUFyZnz7HKX+rU1nf4qh864b7cr2sB4jJ7nNaezAyfIsnkLetO2nORWoQM/bmSCPJMasmeUqdDrg==",
+  "dgSpecHash": "UNkhSVDbDNllvsPH0iukZYI7yKqFpYErFjXrYFPGj/Hbo/1nSFjXLolAVarS+76FqkkW/xwMFKC3jCvMkYMbGg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yiset\\OneDrive\\Escritorio\\Proyectos-C#\\Projectos-.Net\\ExamenCRUDMVC\\ExamenCRUDMVC.csproj",
+  "projectFilePath": "C:\\Users\\yiset\\Documents\\GitHub\\Projectos-.Net\\ExamenCRUDMVC\\ExamenCRUDMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yiset\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\yiset\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
