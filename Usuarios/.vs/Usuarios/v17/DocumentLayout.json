@@ -58,8 +58,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -68,7 +76,7 @@
               "RelativeDocumentMoniker": "Models\\RoleIndexViewModel.cs",
               "ToolTip": "C:\\Users\\yiset\\Documents\\GitHub\\Projectos-.Net\\Usuarios\\Models\\RoleIndexViewModel.cs",
               "RelativeToolTip": "Models\\RoleIndexViewModel.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAYAAAAxAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-04T00:06:49.55Z",
               "EditorCaption": ""
@@ -76,15 +84,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Usuarios",
+              "Title": "Usuarios.csproj",
               "DocumentMoniker": "C:\\Users\\yiset\\Documents\\GitHub\\Projectos-.Net\\Usuarios\\Usuarios.csproj",
               "RelativeDocumentMoniker": "Usuarios.csproj",
               "ToolTip": "C:\\Users\\yiset\\Documents\\GitHub\\Projectos-.Net\\Usuarios\\Usuarios.csproj",
               "RelativeToolTip": "Usuarios.csproj",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-03T22:48:58.297Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-03T22:48:58.297Z"
             },
             {
               "$type": "Document",
@@ -96,8 +103,7 @@
               "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-03T22:10:23.567Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-03T22:10:23.567Z"
             },
             {
               "$type": "Document",
@@ -109,8 +115,7 @@
               "RelativeToolTip": "Models\\Role.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAIwAYAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T22:08:58.129Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-03T22:08:58.129Z"
             },
             {
               "$type": "Document",
@@ -122,8 +127,7 @@
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAACQAAAAAAAAAAIBJwBsAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-03T22:04:54.983Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-03T22:04:54.983Z"
             },
             {
               "$type": "Document",
@@ -135,8 +139,7 @@
               "RelativeToolTip": "Views\\Roles\\Create.cshtml",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAAB8AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-03T21:54:25.621Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-03T21:54:25.621Z"
             },
             {
               "$type": "Document",
@@ -144,12 +147,11 @@
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\yiset\\Documents\\GitHub\\Projectos-.Net\\Usuarios\\Views\\Roles\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Roles\\Index.cshtml",
-              "ToolTip": "C:\\Users\\yiset\\Documents\\GitHub\\Projectos-.Net\\Usuarios\\Views\\Roles\\Index.cshtml*",
-              "RelativeToolTip": "Views\\Roles\\Index.cshtml*",
+              "ToolTip": "C:\\Users\\yiset\\Documents\\GitHub\\Projectos-.Net\\Usuarios\\Views\\Roles\\Index.cshtml",
+              "RelativeToolTip": "Views\\Roles\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-03T21:48:50.272Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-03T21:48:50.272Z"
             },
             {
               "$type": "Document",
@@ -161,8 +163,7 @@
               "RelativeToolTip": "Controllers\\RolesController.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T21:48:39.973Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-03T21:48:39.973Z"
             },
             {
               "$type": "Document",
@@ -174,8 +175,7 @@
               "RelativeToolTip": "Controllers\\UsuariosController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T21:47:39.126Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-03T21:47:39.126Z"
             },
             {
               "$type": "Document",
@@ -187,8 +187,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T21:45:14.149Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-03T21:45:14.149Z"
             },
             {
               "$type": "Document",
@@ -200,8 +199,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-03T21:44:26.221Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-03T21:44:26.221Z"
             },
             {
               "$type": "Document",
@@ -213,8 +211,7 @@
               "RelativeToolTip": "Models\\DevelopmentAsContext.cs",
               "ViewState": "AQIAADMAAAAAAAAAAAA3wDoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T21:44:16.01Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-03T21:44:16.01Z"
             }
           ]
         }
